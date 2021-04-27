@@ -1,0 +1,45 @@
+{
+	"RestaurantEZCorporation": [
+		{
+			"RestaurantName": "Aburi Gardens International",
+			"RestaurantAddress": "14830 Build America Dr, Woodbridge, VA 22191",
+			"RestaurantDescription": "The best West African cuisine in the Northern VA area! Warmly decorated place offering a variety of West African dishes, plus lunch specials & takeout.",
+			"RestaurantPhone": "703-490-1100",
+			"RestaurantImage": "",
+			"RestaurantWebsite": "https://www.facebook.com/AburiGardens13/"
+
+		},
+		{
+			"RestaurantName": "Firebirds Wood Fired Grill",
+			"RestaurantAddress": "15100 Potomac Town Pl #160, Woodbridge, VA 22191",
+			"RestaurantDescription": "Chain restaurant serving steaks, seafood & cocktails in an upscale lodgelike setting.",
+			"RestaurantPhone": "703-763-5022",
+			"RestaurantImage": "",
+			"RestaurantWebsite": "https://woodbridge.firebirdsrestaurants.com/"
+		},
+		{
+			"RestaurantName": "Bahama Breeze",
+			"RestaurantAddress": "2714 Potomac Mills Cir, Woodbridge, VA 22192",
+			"RestaurantDescription": "Laid-back chain eatery featuring Caribbean entrees & tropical cocktails amid beachy decor.",
+			"RestaurantPhone": "703-491-4736",
+			"RestaurantImage": "",
+			"RestaurantWebsite": "https://www.bahamabreeze.com/home"
+		},
+		{
+			"RestaurantName": "Nando's Peri-Peri",
+			"RestaurantAddress": "15001 Potomac Town Pl, Woodbridge, VA 22191",
+			"RestaurantDescription": "Afro-Portuguese chain restaurant serving flame-grilled chicken in spicy chilli sauce.",
+			"RestaurantPhone": "571-659-6340",
+			"RestaurantImage": "",
+			"RestaurantWebsite": "https://www.nandosperiperi.com/"
+
+		}
+
+
+
+
+
+
+
+	]
+}
